@@ -1,6 +1,6 @@
 
 
-![魔塔架构](D:\Git\Cpractice\魔塔架构.png)
+![image](https://github.com/NemoneDaze/Cpractice/blob/main/%E9%AD%94%E5%A1%94%E6%9E%B6%E6%9E%84.png)
 
 ## 项目描述：
 
